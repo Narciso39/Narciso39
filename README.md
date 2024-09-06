@@ -1,10 +1,6 @@
 ### Olá, eu sou Luis Felipe - Desenvolvedor Web
 
-<div>
-<a href="https://github.com/Narciso39">
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Narciso39&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&hide=issues&bg_color=000&title_color=22c3a6&text_color=f1fcf9&border_radius=8&border_color=22c3a6&icon_color=22c3a6&rank_icon=github)&nbsp;&nbsp;
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Narciso39&line_height=10&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=22c3a6&hide=html,css&bg_color=000&text_color=f1fcf9&border_radius=8&border_color=22c3a6&count_private=true)](https://github.com/Narciso39/github-readme-stats)
-</div>
+
 
 ### Tecnologias que eu já utilizo
 
