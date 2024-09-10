@@ -1,9 +1,13 @@
 ### Olá, eu sou Luis Felipe - Desenvolvedor Web
 
-
+<div>
+<a href="https://github.com/Narciso39">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narciso39&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Narciso39&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ### Tecnologias que eu já utilizo
- ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa-Gnandt&theme=radical&custom_title=Top%20%Linguagens)
+
 <div style="display: inline-block;">
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
