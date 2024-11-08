@@ -8,8 +8,7 @@
 
 
 <div style="display: inline-block;">
-  [![Tecnologias que eu já utilizo](https://skillicons.dev/icons?i=js,html,css,ts,node,react,)](https://skillicons.dev)
-
+ [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </div><br/>
 
 
