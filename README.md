@@ -1,7 +1,10 @@
 ### Olá, eu sou Luis Felipe - Desenvolvedor Web
 
 <div>
-![Narciso39's Stats](https://github-readme-stats.vercel.app/api?username=Narciso39&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  <a href="https://github.com/Narciso39">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narciso39&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narciso39&show_icons=true&theme=dracula"/>
+
 </div>
 
 
