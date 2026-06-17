@@ -83,9 +83,9 @@ Tenho experiência no desenvolvimento de APIs, integrações financeiras, sistem
 
 ## GitHub Stats
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenarciso15\&show_icons=true\&theme=tokyonight)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=narciso39\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenarciso15\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narciso39\&layout=compact\&theme=tokyonight)
 
 ---
 
