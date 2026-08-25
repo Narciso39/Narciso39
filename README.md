@@ -83,9 +83,9 @@ Tenho experiência no desenvolvimento de APIs, integrações financeiras, sistem
 
 ## GitHub Stats
 
-![Luis Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=narciso39&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Luis Felipe's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=narciso39&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narciso39&layout=compact&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=narciso39&theme=tokyonight)
 
 ---
 
